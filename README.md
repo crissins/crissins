@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @crissins
-- 👀 I’m interested in ... Python, VBA, Data Science, Guitars
-- 🌱 I’m currently learning ... Python 3, R, C# and VBA
-- 💞️ I’m looking to collaborate on ... Python projects, Excel projects
+- 👀 I’m interested in ... Python, IA implementations, Data Science, LLM and Guitars
+- 🌱 I’m currently learning ... Python 3, Power BI, Power Automate
+- 💞️ I’m looking to collaborate on ... Python projects, AI deployments to solve real world business problems
 - 📫 How to reach me ... crissins041196@gmail.com 6568544454 or come to my house
 
 <!---
