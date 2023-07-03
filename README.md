@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @crissins
-- 👀 I’m interested in ... Python, IA implementations, Data Science, LLM and Guitars
-- 🌱 I’m currently learning ... Python 3, Power BI, Power Automate
-- 💞️ I’m looking to collaborate on ... Python projects, AI deployments to solve real world business problems
-- 📫 How to reach me ... crissins041196@gmail.com 6568544454 or come to my house
+- 👋 Hi, my name is Cristopher Hugo Olivares Del Real 
+- 👀 I’m interested in ... Python, IA implementations, Data Science, Machine Learning and Guitars
+- 💪 I'm good at Power BI (PL-300 Certified Data Analyst), Process improvements, Data Analysis, Project Management
+- 🌱 I’m currently learning ... Machine learning, ChatGPT Prompt Engineering and preparing for the AI-900
+- 💞️ I’m looking to collaborate on ... Machine Learning projects to solve real world business problems in Mexico
+- 📫 How to reach me ... crissins041196@gmail.com, 6568544454 or come to my house
 
 <!---
 crissins/crissins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
