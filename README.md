@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Cristopher Hugo Olivares Del Real 
 - 👀 I’m interested in ... Python, IA implementations, Data Science, Machine Learning and Guitars
-- 💪 I'm good at Power BI (PL-300 Certified Data Analyst), Process improvements, Data Analysis, Project Management
-- 🌱 I’m currently learning ... Machine learning, Streamlit and preparing for the Azure AI Engineer certification
+- 💪 I'm good at Azure, Power BI (AI-102 & PL-300 Certified) Process improvements, Data Analysis, Project Management
+- 🌱 I’m currently learning ... Machine learning, LangChain, AWS and preparing for the Azure Developer certification
 - 💞️ I’m looking to collaborate on ... Machine Learning projects to solve real world business problems
 - 📫 How to reach me ... crissins041196@gmail.com, 6568544454 or come to my house
 
